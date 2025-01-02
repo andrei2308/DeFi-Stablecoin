@@ -55,7 +55,7 @@ contract HelperConfig is Script {
             wbtcUsdPriceFeed: address(btcUsdPriceFeed),
             weth: address(wethMock),
             wbtc: address(wbtcMock),
-            deployerKey: vm.envUint("DEFAULT_ANVIL_KEY")
+            deployerKey: DEFAULT_ANVIL_KEY
         });
     }
 }
