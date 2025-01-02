@@ -20,9 +20,7 @@ This project implements a decentralized stablecoin system, allowing users to dep
 - [Interacting with the Contracts](#interacting-with-the-contracts)
 - [Gas Estimation](#gas-estimation)
 - [Formatting](#formatting)
-- [Security Analysis](#security-analysis)
-- [Acknowledgements](#acknowledgements)
-
+  
 ## About
 
 This project enables users to deposit WETH and WBTC as collateral to mint a stablecoin pegged to the USD. The system includes functionalities for collateral management, stablecoin minting, and liquidation mechanisms to maintain stability.
